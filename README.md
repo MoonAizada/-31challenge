@@ -5,4 +5,4 @@
 
 ## I'm a 3D Graphics Designer!
 - 👀 I’m interested in Graphics Design 
-
+- 🌱 I’m currently learning 3DMax
