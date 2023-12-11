@@ -3,7 +3,7 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoonAizada&label=Views&color=blue&style=plastic" alt="aizada" /> </p> 
 
-## I'm a 3D Graphics Designer!
+## I'm a 3D Visuliator!
 - 👀 I’m interested in Graphics Design 
 - 🌱 I’m currently learning 3DMax
 - 💞️ I’m looking to collaborate on self-development
