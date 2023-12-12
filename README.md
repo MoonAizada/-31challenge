@@ -7,4 +7,6 @@
 - 👀 I’m interested in Graphics Design 
 - 🌱 I’m currently learning 3DMax
 - 💞️ I’m looking to collaborate on self-development
+- - 📫 How to reach me aizadaimansaparova@gmail.com
+  - 
 
