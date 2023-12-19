@@ -11,7 +11,7 @@
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="malik | LinkedIn" width="22px" src="https://www.linkedin.com/in/aizada-imansaparova-336a50258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />][linkedin]
+[<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="malik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
