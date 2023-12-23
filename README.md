@@ -18,4 +18,4 @@
 
 [telegram]: https://t.me/moonizada
 [linkedin]: https://www.linkedin.com/in/aizada-imansaparova-336a50258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-[instagram]: 
+[instagram]: https://www.instagram.com/moonizada?igshid=OGQ5ZDc2ODk2ZA==
