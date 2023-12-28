@@ -4,6 +4,8 @@ Welcome to my page
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoonAizada&label=Views&color=blue&style=plastic" alt="aizada" /> </p> 
 
+<img align="right" alt="Coding" width="360" src="https://cdni.iconscout.com/illustration/premium/thumb/girl-working-in-laptop-3196724-2666479.png"/>
+
 ## I'm a 3D Visuliator!
 - 👀 I’m interested in Computer Graphics  
 - 🌱 I’m currently learning 3DMax
