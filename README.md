@@ -6,7 +6,7 @@ Welcome to my page
 
 <img align="right" alt="Coding" width="360" src="https://cdni.iconscout.com/illustration/premium/thumb/girl-working-in-laptop-3196724-2666479.png"/>
 
-## I'm a 3D Visuliator from Kyrgyzstan!
+## I'm a 3D Visuliator from Kyrgyzstan
 - 👀 I’m interested in Computer Graphics  
 - 🌱 I’m currently learning 3DMax
 - 💞️ I’m looking to collaborate on self-development
