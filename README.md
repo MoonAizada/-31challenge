@@ -8,7 +8,7 @@ Welcome to my page
 
 ## I'm a 3D Visuliator from Kyrgyzstan
 - 👀 I’m interested in Computer Graphics  
-- 🌱 I’m currently learning 3DMax
+- 🌱 I’m currently learning 3DMax аnd Blender
 - 💞️ I’m looking to collaborate on self-development
 - 📫 How to reach me aizadaimansaparova@gmail.com
 
